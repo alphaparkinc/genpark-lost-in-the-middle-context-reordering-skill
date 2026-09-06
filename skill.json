@@ -1,0 +1,15 @@
+{
+  "name": "genpark-lost-in-the-middle-context-reordering-skill",
+  "version": "1.0.0",
+  "description": "Document attention curve reorderer mitigating lost-in-the-middle degradation by placing high-relevance evidence at prompt head and tail.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "lost-in-the-middle",
+    "attention-curve",
+    "reordering",
+    "rag",
+    "genpark",
+    "mcp"
+  ]
+}
